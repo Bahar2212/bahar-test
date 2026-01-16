@@ -1,0 +1,15 @@
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\bin\Debug\net9.0\MathApp.exe
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\bin\Debug\net9.0\MathApp.deps.json
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\bin\Debug\net9.0\MathApp.runtimeconfig.json
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\bin\Debug\net9.0\MathApp.dll
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\bin\Debug\net9.0\MathApp.pdb
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\MathApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\MathApp.AssemblyInfoInputs.cache
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\MathApp.AssemblyInfo.cs
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\MathApp.csproj.CoreCompileInputs.cache
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\MathApp.sourcelink.json
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\MathApp.dll
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\refint\MathApp.dll
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\MathApp.pdb
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\MathApp.genruntimeconfig.cache
+C:\Users\bahar\OneDrive\Desktop\bahar-test\src\MathApp\obj\Debug\net9.0\ref\MathApp.dll
