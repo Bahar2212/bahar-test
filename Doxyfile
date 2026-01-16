@@ -1,16 +1,15 @@
 # --- PROJECT SETTINGS ---
-DOXYFILE_ENCODING      = UTF-8
 PROJECT_NAME           = "MathApp"
 PROJECT_NUMBER         = 1.0
-PROJECT_BRIEF          = "A simple calculator with Unit Tests and Documentation"
+PROJECT_BRIEF          = "Calculator with Unit Tests and Documentation"
 OUTPUT_DIRECTORY       = docs
 CREATE_SUBDIRS         = NO
 OUTPUT_LANGUAGE        = English
 
 # --- INPUT SETTINGS ---
-# مسیر اصلی کدها و فایل ریدمی
-INPUT                  = README.md src/MathApp
-FILE_PATTERNS          = *.cs *.md
+# فقط پوشه کدها را اسکن می‌کنیم تا گیج نشود
+INPUT                  = src/MathApp
+FILE_PATTERNS          = *.cs
 RECURSIVE              = YES
 EXCLUDE                = **/obj/** **/bin/**
 
@@ -25,16 +24,17 @@ EXTRACT_PRIVATE        = YES
 EXTRACT_STATIC         = YES
 SHOW_USED_FILES        = YES
 
-# --- HTML SETTINGS ---
+# --- HTML SETTINGS (IMPORTANT FIX) ---
 GENERATE_HTML          = YES
 HTML_OUTPUT            = html
 HTML_FILE_EXTENSION    = .html
 
-# این بخش باعث می‌شود README صفحه اصلی باشد و منو درختی در سمت چپ ظاهر شود
-USE_MDRIP              = YES
+# این بخش جادویی: لیست کلاس‌ها را مستقیماً صفحه اول می‌کند
 GENERATE_TREEVIEW      = YES
 DISABLE_INDEX          = NO
-FULL_PATH_NAMES        = YES
+SEARCHENGINE           = NO
+# این خط باعث می‌شود لیست کلاس‌ها اولین چیزی باشد که می‌بینی
+HTML_DYNAMIC_MENUS     = NO
 
 # --- DISABLE UNUSED FORMATS ---
 GENERATE_LATEX         = NO

@@ -25,7 +25,6 @@
 var NAVTREE =
 [
   [ "MathApp", "index.html", [
-    [ "MathApp Project", "md__r_e_a_d_m_e.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],
