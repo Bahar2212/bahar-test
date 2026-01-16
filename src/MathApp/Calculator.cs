@@ -1,16 +1,16 @@
 namespace MathApp;
 
 /// <summary>
-/// En simpel lommeregner til at demonstrere unit testing.
+/// Provides basic mathematical operations.
 /// </summary>
 public class Calculator
 {
     /// <summary>
-    /// Lægger to heltal sammen.
+    /// Adds two integers and returns the result.
     /// </summary>
-    /// <param name="a">Det første tal.</param>
-    /// <param name="b">Det andet tal.</param>
-    /// <returns>Summen af a og b.</returns>
+    /// <param name="a">The first integer to add.</param>
+    /// <param name="b">The second integer to add.</param>
+    /// <returns>The sum of the two integers.</returns>
     public int Add(int a, int b)
     {
         return a + b;
