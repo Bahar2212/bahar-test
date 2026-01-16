@@ -1,9 +1,11 @@
 var indexSectionsWithContent =
 {
-  0: "acm",
+  0: ".acmprw",
   1: "c",
   2: "m",
-  3: "a"
+  3: ".cmpr",
+  4: "aw",
+  5: "mp"
 };
 
 var indexSectionNames =
@@ -11,7 +13,9 @@ var indexSectionNames =
   0: "all",
   1: "classes",
   2: "namespaces",
-  3: "functions"
+  3: "files",
+  4: "functions",
+  5: "pages"
 };
 
 var indexSectionLabels =
@@ -19,6 +23,8 @@ var indexSectionLabels =
   0: "All",
   1: "Data Structures",
   2: "Namespaces",
-  3: "Functions"
+  3: "Files",
+  4: "Functions",
+  5: "Pages"
 };
 

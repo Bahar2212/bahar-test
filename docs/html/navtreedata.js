@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "MathApp", "index.html", [
+    [ "MathApp Project", "md__r_e_a_d_m_e.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ]
     ] ],
@@ -35,13 +36,20 @@ var NAVTREE =
         [ "All", "functions.html", null ],
         [ "Functions", "functions_func.html", null ]
       ] ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ],
+      [ "Globals", "globals.html", [
+        [ "All", "globals.html", null ],
+        [ "Functions", "globals_func.html", null ]
+      ] ]
     ] ]
   ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"annotated.html"
+"_8_n_e_t_core_app_00_version_0av9_80_8_assembly_attributes_8cs.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
